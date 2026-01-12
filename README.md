@@ -1,6 +1,6 @@
 ## Hey, I'm Andrew 👋
 
-🏗️ Head Software Developer on the Cal Poly Construction Management mobile app.
+🏗️ Software Developer on the Cal Poly Construction Management mobile app.
 
 🎮 Unreal Fortnite Player.
 
